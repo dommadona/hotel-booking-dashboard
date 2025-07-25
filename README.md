@@ -19,4 +19,4 @@ This interactive Power BI dashboard analyzes hotel booking behavior across guest
 
 
 ## File
-- `hotel_booking_dashboard.pbix`
+- [`hotel_booking_dashboard.pbix`](https://github.com/dommadona/hotel-booking-dashboard/blob/main/Hotel%20Booking%20Analysis.pbix)
